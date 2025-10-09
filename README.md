@@ -8,8 +8,12 @@ Deep learning models have been successful in many areas but understanding their 
 
 ## Overall
 
-![overall](figure/overall.png)
+![overall](figure/approach.png)
 
 
-## Todo Lists
+## How to train
 Codes will be released soon!
+
+
+## Citation
+To be written
