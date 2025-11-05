@@ -1,6 +1,6 @@
 # [EMNLP 2025] Data-Descriptions-from-Large-Language-Models-with-Influence-Estimation, EMNLP 2025
 
-This repository is official for "[Data-Descriptions-from-Large-Language-Models-with-Influence-Estimation]([https://arxiv.org/abs/2310.19264](https://aclanthology.org/2025.emnlp-main.1717/))", EMNLP 2025.
+This repository is official for "[Data-Descriptions-from-Large-Language-Models-with-Influence-Estimation]([[https://arxiv.org/abs/2310.19264](https://aclanthology.org/2025.emnlp-main.1717/)](https://aclanthology.org/2025.emnlp-main.1717/))", EMNLP 2025.
 
 ## Abstract
 
